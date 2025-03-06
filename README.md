@@ -38,7 +38,11 @@ Vocab-Bot/
 ```
 
 ## API Integration
-Vocab Bot uses the [Dictionary API](https://dictionaryapi.dev/) to fetch word meanings. The API is called dynamically when a user enters a word and presses Enter.
+Vocab Bot uses the [Dictionary API]
+
+https://github.com/user-attachments/assets/525cbcb5-fe9a-415e-a0a8-417487684f7e
+
+ to fetch word meanings. The API is called dynamically when a user enters a word and presses Enter.
 
 Example API request:
 ```sh
