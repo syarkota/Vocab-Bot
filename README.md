@@ -2,8 +2,7 @@
 Vocab Bot is a simple web application that allows users to search for word meanings using an online dictionary API. The app provides definitions and pronunciation audio for searched words.
 
 # TRY : 
-(https://vocab-bot.vercel.app/)
-
+(https://syar-vocabbot.vercel.app/)
 ## Features
 - Search for word meanings instantly
 - Displays pronunciation audio (if available)
